@@ -27,7 +27,7 @@
 
 | Sebelum | Sesudah |
 |--------|---------|
-| ![original](preview/original.jpg) | ![watermarked](preview/watermarked.jpg) |
+| ![original]([preview/original.jpg](https://github.com/hilmyadlann/WATERMARK-MIWEDIGITALSTORE/blob/main/preview/original.png)) | ![watermarked](preview/watermarked.jpg) |
 
 *(Pastikan Anda menambahkan gambar contoh ke folder `preview/` jika ingin hasil ini muncul)*
 

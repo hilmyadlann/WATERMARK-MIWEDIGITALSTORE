@@ -1,2 +1,41 @@
-# WATERMARK-MIWEDIGITALSTORE
-Program yang secara otomatis menambahkan watermark ke file gambar (PNG/JPG) berdasarkan data orderan. Tujuannya adalah untuk melindungi hasil digital (seperti desain, karya seni, atau dokumen) agar tidak dicuri atau digunakan tanpa izin oleh pihak lain, termasuk oleh store yang jualannya sama dengan store kita.
+# 💧 WATERMARK-MIWEDIGITALSTORE
+
+**WATERMARK-MIWEDIGITALSTORE** adalah solusi sederhana namun efektif untuk menambahkan watermark otomatis ke file gambar (.png / .jpg) berdasarkan data orderan.
+
+---
+
+## 🚀 Fitur Utama
+
+- ✅ Tambah watermark otomatis berdasarkan nama store, contoh ( MIWE DIGITAL STORE )
+- 🖼️ Dukungan untuk format gambar PNG dan JPG
+- 🔐 Lindungi pratinjau desain agar tidak dicuri atau disalahgunakan
+- 📁 Bisa digunakan untuk memproses gambar satuan atau banyak sekaligus
+- ⚙️ Konfigurasi teks dan posisi watermark yang fleksibel
+
+---
+
+## 🛠️ Cara Kerja
+
+1. Anda upload gambar hasil desain (PNG/JPG).
+2. Sistem membaca data order (bisa berupa nama customer, ID, atau info lainnya).
+3. Watermark disisipkan secara otomatis pada gambar.
+4. Gambar siap dikirim sebagai **preview** atau **sample aman** ke customer/store.
+
+---
+
+## 📸 Contoh Hasil
+
+| Sebelum | Sesudah |
+|--------|---------|
+| ![original](preview/original.jpg) | ![watermarked](preview/watermarked.jpg) |
+
+*(Pastikan Anda menambahkan gambar contoh ke folder `preview/` jika ingin hasil ini muncul)*
+
+---
+
+## 🔧 Instalasi
+
+```bash
+git clone https://github.com/username/WATERMARK-MIWEDIGITALSTORE.git
+cd WATERMARK-MIWEDIGITALSTORE
+pip install -r requirements.txt

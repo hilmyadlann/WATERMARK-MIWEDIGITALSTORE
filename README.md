@@ -27,9 +27,9 @@
 
 | Sebelum | Sesudah |
 |--------|---------|
-| ![original](preview\watermarked.jpg) | ![watermarked](preview/ORDERAN-1-MIWEDIGITALSTORE.jpg)|
+| ![original](preview/original.png) | ![watermarked](preview/ORDERAN-1-MIWEDIGITALSTORE.jpg) |
 
-*(Pastikan Anda menambahkan gambar contoh ke folder `preview/` jika ingin hasil ini muncul)*
+*Pastikan Anda menambahkan gambar contoh ke folder `preview/` agar hasil ini bisa ditampilkan dengan benar.*
 
 ---
 

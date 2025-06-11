@@ -27,7 +27,7 @@
 
 | Sebelum | Sesudah |
 |--------|---------|
-| ![original]([preview/original.jpg](https://github.com/hilmyadlann/WATERMARK-MIWEDIGITALSTORE/blob/main/preview/original.png)) | ![watermarked](preview/watermarked.jpg) |
+| ![original](preview\watermarked.jpg) | ![watermarked](preview/ORDERAN 1 - MIWEDIGITALSTORE.jpg) |
 
 *(Pastikan Anda menambahkan gambar contoh ke folder `preview/` jika ingin hasil ini muncul)*
 
@@ -38,4 +38,5 @@
 ```bash
 git clone https://github.com/username/WATERMARK-MIWEDIGITALSTORE.git
 cd WATERMARK-MIWEDIGITALSTORE
-pip install -r requirements.txt
+cd watermark
+python wm.py

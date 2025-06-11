@@ -29,8 +29,6 @@
 |--------|---------|
 | ![original](preview/original.png) | ![watermarked](preview/ORDERAN-1-MIWEDIGITALSTORE.jpg) |
 
-*Pastikan Anda menambahkan gambar contoh ke folder `preview/` agar hasil ini bisa ditampilkan dengan benar.*
-
 ---
 
 ## 🔧 Instalasi

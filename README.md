@@ -1,7 +1,7 @@
 # 💧 WATERMARK-MIWEDIGITALSTORE
 
 **WATERMARK-MIWEDIGITALSTORE adalah solusi sederhana namun efektif untuk menambahkan watermark secara otomatis pada file gambar (.png / .jpg) berdasarkan data orderan.
-**Program ini dibuat menggunakan Python dan dirancang untuk memudahkan proses branding atau pelabelan gambar secara batch.
+Program ini dibuat menggunakan Python dan dirancang untuk memudahkan proses branding atau pelabelan gambar secara batch.
 
 ---
 
